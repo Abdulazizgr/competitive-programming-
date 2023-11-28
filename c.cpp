@@ -19,4 +19,4 @@ int main()
     cout << sum;
 }
 
-// A - Find Multiple
+// B - Nuts
